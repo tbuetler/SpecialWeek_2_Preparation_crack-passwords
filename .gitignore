@@ -1,0 +1,13 @@
+**/.DS_Store
+**/.*.bkp
+**/.*.dtmp
+.checkstyle
+.classpath
+.idea/
+.project
+.settings/
+bin/
+doc/
+target/
+*.iml
+5-million-passwords.txt
