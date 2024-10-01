@@ -48,6 +48,9 @@ When done with your Akka implementation, run it with multiple values of `1`, `2`
 
 ![Graph](img/pwd-crack-graph.svg)
 
+- My timetable for of the execution is:
+![Graph](img/Mappe.svg)
+
 ## Skeleton Classes
 
 Three skeletons of classes are given in package `ch.bfh.akka.crack.parallel`. They form the basis of

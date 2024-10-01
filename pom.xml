@@ -24,6 +24,14 @@
 		<nbActors>4</nbActors>
     </properties>
 
+	<repositories>
+		<repository>
+			<id>akka-repository</id>
+			<name>Akka library repository</name>
+			<url>https://repo.akka.io/maven</url>
+		</repository>
+	</repositories>
+
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
